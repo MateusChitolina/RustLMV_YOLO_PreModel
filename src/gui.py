@@ -18,7 +18,7 @@ def run_prediction():
 
 def create_gui():
     root = Tk()
-    root.title("Corrosion Predictor")
+    root.title("Detecção de ferrugens")
     root.geometry("300x200")
 
     btn_predict = Button(root, text="Selecionar Imagem e Prever", command=run_prediction)
