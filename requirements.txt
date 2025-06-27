@@ -1,2 +1,5 @@
 roboflow
-tkinter
+opencv-python
+pillow
+matplotlib
+numpy
